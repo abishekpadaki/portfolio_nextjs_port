@@ -108,9 +108,9 @@ const userData = {
   socialLinks: {
     instagram: "https://instagram.com/maninthere",
     twitter: "https://twitter.com/mannupaaji",
-    linkedin: "https://linkedin.com/in/manuarora28",
-    github: "https://github.com/manuarora700",
-    facebook: "https://facebook.com/",
+    linkedin: "https://linkedin.com/in/abishek-padaki",
+    github: "https://github.com/abishekpadaki",
+    facebook: "",
   },
 };
 
